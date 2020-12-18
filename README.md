@@ -1,2 +1,2 @@
 # insurancecharges
-A program created in R,  using a methodological approach from data exploration to data modeling, to analyze the amount of insurance premiums to charge individual customers.
+A program created in R, using a methodological approach from data exploration to data modeling, to analyze how much to charge customers for their insurance premiums.
